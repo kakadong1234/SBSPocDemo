@@ -1,8 +1,8 @@
 {
-  "name": "PartyBuildingCloudAdmin",
+  "name": "SBSPocDemoAdmin",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "admin for party Building cloud",
+  "description": "admin for SBS POC Demo",
   "author": "xiaowei <15372383031@126.com>",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
